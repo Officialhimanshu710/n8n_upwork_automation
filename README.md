@@ -38,4 +38,5 @@ You must set up the following credentials in n8n:
 - REPORT.md: Details on issues fixed and enhancements.
 
   ---
-
+## 🎥 Project Demo
+[Click here to watch the demo video](https://drive.google.com/file/d/15c-ewwFZY7VO9nUjaPCTRmQDjiXNv6-P/view?usp=sharing)
